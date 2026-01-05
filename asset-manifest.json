@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/PORTFOLIO_MY/static/css/main.142ab05e.css",
-    "main.js": "/PORTFOLIO_MY/static/js/main.268afeb9.js",
+    "main.js": "/PORTFOLIO_MY/static/js/main.a95608a7.js",
     "static/js/453.ace21015.chunk.js": "/PORTFOLIO_MY/static/js/453.ace21015.chunk.js",
     "static/media/SMS.png": "/PORTFOLIO_MY/static/media/SMS.4ec657cc1f7a45ca75e5.png",
     "static/media/luxeloom.png": "/PORTFOLIO_MY/static/media/luxeloom.670a2dc6cba4d065d1ac.png",
@@ -17,7 +17,7 @@
     "static/media/todo_5.jpg": "/PORTFOLIO_MY/static/media/todo_5.87537a31426cf7e6cd59.jpg",
     "static/media/footer-bg.png": "/PORTFOLIO_MY/static/media/footer-bg.7bd67c0f73571d0acc02.png",
     "static/media/girl.jpg": "/PORTFOLIO_MY/static/media/girl.71aaa2d4d610d588979d.jpg",
-    "static/media/contact-img.svg": "/PORTFOLIO_MY/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
+    "static/media/contact-img.svg": "/PORTFOLIO_MY/static/media/contact-img.62aa99e0f3b968b5d1ce9eb047f34fc7.svg",
     "static/media/spring.jpg": "/PORTFOLIO_MY/static/media/spring.03607cf0ad7c3057200a.jpg",
     "static/media/flutter.jpg": "/PORTFOLIO_MY/static/media/flutter.36c5c2b678682d479b2e.jpg",
     "static/media/PostgreSQL.png": "/PORTFOLIO_MY/static/media/PostgreSQL.330884e1a0af061180ec.png",
@@ -34,17 +34,17 @@
     "static/media/js.png": "/PORTFOLIO_MY/static/media/js.3dfb665e058d08c99f28.png",
     "static/media/scala.png": "/PORTFOLIO_MY/static/media/scala.e227a6257fdd159ab20c.png",
     "static/media/revicons.woff": "/PORTFOLIO_MY/static/media/revicons.e8746a624ed098489406.woff",
-    "static/media/nav-icon3.svg": "/PORTFOLIO_MY/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
-    "static/media/nav-icon2.svg": "/PORTFOLIO_MY/static/media/nav-icon2.9a698975d3f1634eb684814667eb8e60.svg",
+    "static/media/nav-icon3.svg": "/PORTFOLIO_MY/static/media/nav-icon3.72cef43bc93b04f52e29f022ef720f8b.svg",
+    "static/media/nav-icon2.svg": "/PORTFOLIO_MY/static/media/nav-icon2.8e0ce98b2321a7ed972981cd918df0dc.svg",
     "index.html": "/PORTFOLIO_MY/index.html",
-    "static/media/nav-icon1.svg": "/PORTFOLIO_MY/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
-    "static/media/dart-icon.svg": "/PORTFOLIO_MY/static/media/dart-icon.654e024b908b3d2ed5f3e6e6c6124e87.svg",
+    "static/media/nav-icon1.svg": "/PORTFOLIO_MY/static/media/nav-icon1.dff40ae802524d8fc0cbce3f312abe4f.svg",
+    "static/media/dart-icon.svg": "/PORTFOLIO_MY/static/media/dart-icon.4b465b5ebc42fbcf09c105689f4cc0e6.svg",
     "main.142ab05e.css.map": "/PORTFOLIO_MY/static/css/main.142ab05e.css.map",
-    "main.268afeb9.js.map": "/PORTFOLIO_MY/static/js/main.268afeb9.js.map",
+    "main.a95608a7.js.map": "/PORTFOLIO_MY/static/js/main.a95608a7.js.map",
     "453.ace21015.chunk.js.map": "/PORTFOLIO_MY/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.142ab05e.css",
-    "static/js/main.268afeb9.js"
+    "static/js/main.a95608a7.js"
   ]
 }
