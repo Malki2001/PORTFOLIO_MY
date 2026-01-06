@@ -13,7 +13,7 @@ import profile from '../assets/img/profile.jpg';
 function Banner() {
   const [loopNum, setLoopNum] = useState(0);
   const [isDeleting, setIsDeleting] = useState(false);
-  const toRotate = ['Software Engineer','FrontEnd Developer','Mobile App Developer', 'Web Designer', 'UI/UX Designer'];
+  const toRotate = ['Software Engineer','Mobile App Developer','AI Engineer', 'Web Designer', 'UI/UX Designer'];
   const [text, setText] = useState('');
   const [delta, setDelta] = useState(150 - Math.random() * 100);
   const period = 3000;
